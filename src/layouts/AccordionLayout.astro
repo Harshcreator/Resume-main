@@ -1,6 +1,7 @@
 ---
 import { Icon } from "astro-icon/components";
 import BaseLayout from "./BaseLayout.astro";
+import  SpeedInsights  from "@vercel/speed-insights/astro"
 const { title, icon } = Astro.props;
 ---
 
@@ -11,6 +12,7 @@ const { title, icon } = Astro.props;
       <div class="flex">
         <Icon name={icon} class="w-8 h-8 mr-4" />
         {title}
+        <SpeedInsights/>
       </div>
     </div>
     <div class="collapse-content">
