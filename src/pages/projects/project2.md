@@ -1,6 +1,6 @@
 ---
 title: HealthPal
-url: http://dan.ma/humbe
+url: https://github.com/Harshcreator/HealthPal
 tags: ["react", "javaScript", "bootsrap", "Python", "Flask", "CSS"]
 date: 2024
 ---
