@@ -1,6 +1,6 @@
 ---
 title: CropLens
-url: https://github.com/Harshcreator/HealthPal
+url: https://github.com/Harshcreator/CropLens
 tags: ["Python", "Tkinter", "PIL", "cv2"]
 date: 2024
 ---
