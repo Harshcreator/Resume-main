@@ -4,7 +4,7 @@ date: Feb 2023 - Jun 2023
 url: https://www.zakki.org/
 location: Remote
 org: Zakki
-tags: ["Backend Development in Java", "Spring Boot", "Mongo DB", "POSTMAN"]
+tags: ["NodeJS", "Express", "MongoDB", "POSTMAN"]
 ---
 
 - Designed scalable backend architecture resulting in a 30% increase in website traffic.
