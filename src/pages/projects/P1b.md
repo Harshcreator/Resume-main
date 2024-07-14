@@ -1,6 +1,6 @@
 ---
 title: Service Marketplace on Solana
-url: https://github.comHarshcreatorTwo-sided-Marketplace-for-Services.git
+url: https://github.com/Harshcreator/Two-sided-Marketplace-for-Services.git
 tags: ["Rust", "NodeJS", "Solana", "Anchor"]
 date: 2024
 ---
