@@ -3,4 +3,4 @@ title: Developer Tools
 
 ---
 
-Git, Docker, Kubernetes, Spring
+Git, Docker, Kubernetes

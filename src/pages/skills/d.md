@@ -3,4 +3,4 @@ title: Cloud & Databases
 
 ---
 
- Google Cloud Platform (GCP), PostgreSQL, MongoDB
+ Google Cloud Platform (GCP), AWS, MySQL, PostgreSQL, MongoDB

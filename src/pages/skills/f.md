@@ -1,6 +1,6 @@
 ---
-title: CyberSecurity
+title: CyberSecurity & Blockchain
 
 ---
 
-Threat Analysis, Firewalls, Antivirus Programs, Encryption Technologies
+Networking, Cryptography, Anchor, Solana
