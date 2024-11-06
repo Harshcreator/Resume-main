@@ -6,4 +6,4 @@ location: Maharashtra, IN
 pronouns: "he/him"
 ---
 
-Embracing the dynamic realm of software development, I am on a relentless quest to engineer solutions that transcend convention. Fueled by curiosity and a commitment to excellence, I immerse myself in the ever-evolving landscape of technology. Through inventive coding and meticulous problem-solving, I endeavor to redefine user experiences and push the boundaries of what's possible. Join me on this exhilarating journey as I pave my way through the digital frontier where innovation meets code.
+Experienced software developer who builds reliable, practical solutions. Creates code that helps people work more efficiently. Known for quick problem-solving, adapting to new technologies, and delivering projects on schedule. Strong track record of turning complex requirements into straightforward, maintainable software.
