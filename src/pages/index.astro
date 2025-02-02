@@ -81,15 +81,14 @@ const work = await Promise.all(
 
       <section class="animate space-y-6">
         <div class="flex flex-wrap gap-y-2 items-center justify-between">
-          <h5 class="font-semibold text-black dark:text-white">
-            Education
-          </h5>
+          <h5 class="font-semibold text-black dark:text-white">Education</h5>
         </div>
         <ul class="flex flex-col space-y-4">
+          <p class="text-sm opacity-75">2022 - 2026</p>
           Pimpri Chinchwad College of Engineering & Research, Pune, MH - India
-          <li class="font-semibold text-black dark:text-white">
-            Bachelor of Engineering in Computer Engineering (2022-2026) 
-          </li>
+          <p class="font-semibold text-black dark:text-white">
+            Bachelor of Engineering in Computer Engineering
+          </p>
         </ul>
       </section>
 
@@ -98,7 +97,7 @@ const work = await Promise.all(
           <h5 class="font-semibold text-black dark:text-white">Skills</h5>
         </div>
         <div>
-          <ul>
+          <ul class="list-disc pl-5">
             <li class="flex flex-wrap gap-2">
               <span class="font-semibold text-black dark:text-white"
                 >Languages:</span
@@ -129,15 +128,8 @@ const work = await Promise.all(
               >
               <span>Git, Docker, GCP, AWS, Cloudflare</span>
             </li>
-            <li class="flex flex-wrap gap-2">
-              <span class="font-semibold text-black dark:text-white"
-                >AI/ML:</span
-              >
-              <span>NLP, Machine Learning</span>
-            </li>
           </ul>
         </div>
-        <ul class="flex flex-wrap gap-2"></ul>
       </section>
 
       <section class="animate space-y-6">
@@ -194,3 +186,16 @@ const work = await Promise.all(
     </div>
   </Container>
 </PageLayout>
+
+<style>
+  ul.list-disc {
+    list-style-type: disc;
+  }
+  ul.list-disc li {
+    list-style-position: inside;
+    display: list-item;
+  }
+  ul.list-disc li::marker {
+    color: gray;
+  }
+</style>
